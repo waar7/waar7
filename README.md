@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @waar7,  a frsh aerospace engineering graduate.
+- 👀 I’m interested in learning CFD in Python and C++
+- 🌱 I’m currently learning C++ and solving ODEs and PDEs in Python.
+- I just want to become a better engineer, so help me coding Gods :)
